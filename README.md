@@ -1,5 +1,7 @@
 # Banking Customer Segmentation (Power BI)
 
+![Dashboard Preview](overview_dashboard_preview.png)
+
 ## Objective
 
 Identify and characterize the most valuable customers of a bank by analyzing their behavior, profile, and geographic distribution, in order to support data-driven business decisions related to segmentation and retention.
